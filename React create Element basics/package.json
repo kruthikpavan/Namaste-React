@@ -1,0 +1,28 @@
+{
+   "name": "namaste-react",
+   "version": "1.0.0",
+   "description": "",
+   "scripts": {
+      "start": "npx parcel index.html",
+      "prod-build": "npx parcel build index.html"
+   },
+   "browserslist": "> 0.5%, last 2 versions, not dead",
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/kruthikpavan/Namaste-React.git"
+   },
+   "author": "Pavan Kruthik",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/kruthikpavan/Namaste-React/issues"
+   },
+   "homepage": "https://github.com/kruthikpavan/Namaste-React#readme",
+   "dependencies": {
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0"
+   },
+   "devDependencies": {
+      "parcel": "^2.8.2",
+      "process": "^0.11.10"
+   }
+}
